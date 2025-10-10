@@ -7,3 +7,8 @@ pip freeze > requirements.txt
 python manage.py runserver
 pip install python-dotenv
 git init
+git add .
+git commit -m 'primeiro commit'
+git config --global user.email ""
+git config --global user.name ""
+git push -u origin master
