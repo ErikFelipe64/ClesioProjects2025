@@ -12,3 +12,4 @@ git commit -m 'primeiro commit'
 git config --global user.email ""
 git config --global user.name ""
 git push -u origin master
+git push origin master
